@@ -154,12 +154,15 @@ export MLFLOW_TRACKING_PASSWORD=00b33ab2c658f09484834de0d352e2db226d81fe
 
     ECR_REPOSITORY_NAME = mlproject
 
+![Local Image](images/model_index.png)
+
+![Local Image](images/model_result.png)
 
 
+## About MLflow
 
-## About MLflow 
 MLflow
 
- - Its Production Grade
- - Trace all of your expriements
- - Logging & tagging your model
+- Its Production Grade
+- Trace all of your expriements
+- Logging & tagging your model
