@@ -1268,3 +1268,55 @@ x==========x]
 [2023-12-06 12:51:02,325: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2023-12-06 13:07:20,557: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.107:8080]
+[2023-12-06 13:07:20,557: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-12-06 13:07:25,521: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:07:25] "GET / HTTP/1.1" 200 -]
+[2023-12-06 13:07:25,578: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:07:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-12-06 13:07:48,889: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:07:48] "GET / HTTP/1.1" 200 -]
+[2023-12-06 13:08:43,527: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:08:43] "GET / HTTP/1.1" 200 -]
+[2023-12-06 13:08:43,571: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:08:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-12-06 13:09:01,085: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:09:01] "GET / HTTP/1.1" 200 -]
+[2023-12-06 13:09:01,240: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:09:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-12-06 13:10:22,463: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.107:8080]
+[2023-12-06 13:10:22,463: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-12-06 13:10:22,479: INFO: _internal:  * Restarting with stat]
+[2023-12-06 13:10:24,369: WARNING: _internal:  * Debugger is active!]
+[2023-12-06 13:10:24,385: INFO: _internal:  * Debugger PIN: 116-171-501]
+[2023-12-06 13:10:30,687: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:30] "GET / HTTP/1.1" 200 -]
+[2023-12-06 13:10:31,590: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:31] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2023-12-06 13:10:31,948: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:31] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2023-12-06 13:10:31,955: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:31] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2023-12-06 13:10:31,972: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:31] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2023-12-06 13:10:32,239: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:32] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2023-12-06 13:10:32,336: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:32] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2023-12-06 13:10:32,436: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:32] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2023-12-06 13:10:32,795: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:10:32] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2023-12-06 13:12:16,974: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.107:8080]
+[2023-12-06 13:12:16,974: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-12-06 13:12:16,974: INFO: _internal:  * Restarting with stat]
+[2023-12-06 13:12:19,123: WARNING: _internal:  * Debugger is active!]
+[2023-12-06 13:12:19,140: INFO: _internal:  * Debugger PIN: 116-171-501]
+[2023-12-06 13:12:22,457: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:22] "GET / HTTP/1.1" 200 -]
+[2023-12-06 13:12:22,701: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2023-12-06 13:12:22,709: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:22] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2023-12-06 13:12:22,819: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:22] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2023-12-06 13:12:22,819: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2023-12-06 13:12:23,039: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:23] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2023-12-06 13:12:23,161: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:23] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2023-12-06 13:12:23,195: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:23] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2023-12-06 13:12:23,560: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:12:23] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2023-12-06 13:13:52,313: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:13:52] "POST /predict HTTP/1.1" 200 -]
+[2023-12-06 13:13:52,361: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:13:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2023-12-06 13:13:52,375: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:13:52] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2023-12-06 13:13:52,718: INFO: _internal: 127.0.0.1 - - [06/Dec/2023 13:13:52] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2023-12-06 14:19:08,351: INFO: _internal:  * Detected change in 'D:\\ML_Projects\\End-to-End-ML-Project-with-MLOps\\app.py', reloading]
+[2023-12-06 14:19:08,810: INFO: _internal:  * Restarting with stat]
